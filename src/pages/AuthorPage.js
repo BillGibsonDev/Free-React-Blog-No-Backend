@@ -1,7 +1,6 @@
 import { useState } from "react";
 
 // styles
-import * as palette from '../Theme';
 import styled from "styled-components";
 
 // router
