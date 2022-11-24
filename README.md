@@ -1,4 +1,4 @@
-#### Free React Blog with NO BACKEND
+## Free React Blog with NO BACKEND
 
 Demo: https://gleaming-taffy-8ae1fb.netlify.app/
 
