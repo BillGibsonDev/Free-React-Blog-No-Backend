@@ -10,6 +10,8 @@ Instead we created a JavaScript File that will contain the blog posts.
 
 We are able to dynamically create posts with the help of <a href="https://www.markdownguide.org/basic-syntax/#emphasis" target="_blank">marked</a>. Which is a package used for creating markdown. 
 
+Here's a guide on how to use <a href="https://www.markdownguide.org/basic-syntax" target="_blank">markdown</a>.
+
 So we have dynamic pages WITH dynamic content that we can style dynamically!
 
 ### How we did it
