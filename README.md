@@ -12,7 +12,7 @@ We are able to dynamically create posts with the help of <a href="https://www.ma
 
 Here's a guide on how to use <a href="https://www.markdownguide.org/basic-syntax" target="_blank">markdown</a>.
 
-So we have dynamic pages WITH dynamic content that we can style dynamically!
+So we have dynamic pages WITH dynamic content that we can style dynamically and link to scoial medias!
 
 ### How we did it
 YouTube video: Coming Soon!
